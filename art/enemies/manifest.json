@@ -1,0 +1,44 @@
+{
+ "cleaver_chef": {
+  "file": "cleaver_chef.png",
+  "w": 186,
+  "h": 332,
+  "blobs": 1
+ },
+ "lid_chef": {
+  "file": "lid_chef.png",
+  "w": 224,
+  "h": 332,
+  "blobs": 1
+ },
+ "delivery_rider": {
+  "file": "delivery_rider.png",
+  "w": 228,
+  "h": 332,
+  "blobs": 1
+ },
+ "takoyaki_thrower": {
+  "file": "takoyaki_thrower.png",
+  "w": 247,
+  "h": 332,
+  "blobs": 1
+ },
+ "big_eater": {
+  "file": "big_eater.png",
+  "w": 287,
+  "h": 332,
+  "blobs": 1
+ },
+ "veg_thief": {
+  "file": "veg_thief.png",
+  "w": 234,
+  "h": 332,
+  "blobs": 1
+ },
+ "boss_tuna_master": {
+  "file": "boss_tuna_master.png",
+  "w": 277,
+  "h": 332,
+  "blobs": 1
+ }
+}

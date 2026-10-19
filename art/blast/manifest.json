@@ -1,0 +1,50 @@
+{
+ "w_sushi_gun": {
+  "file": "w_sushi_gun.png",
+  "w": 190,
+  "h": 232,
+  "blobs": 1
+ },
+ "w_ramen_missile": {
+  "file": "w_ramen_missile.png",
+  "w": 174,
+  "h": 232,
+  "blobs": 1
+ },
+ "w_yakiniku_flame": {
+  "file": "w_yakiniku_flame.png",
+  "w": 218,
+  "h": 232,
+  "blobs": 1
+ },
+ "w_dessert_cannon": {
+  "file": "w_dessert_cannon.png",
+  "w": 172,
+  "h": 232,
+  "blobs": 1
+ },
+ "a_sushi": {
+  "file": "a_sushi.png",
+  "w": 232,
+  "h": 206,
+  "blobs": 1
+ },
+ "a_ramen": {
+  "file": "a_ramen.png",
+  "w": 145,
+  "h": 232,
+  "blobs": 1
+ },
+ "a_yakiniku": {
+  "file": "a_yakiniku.png",
+  "w": 184,
+  "h": 232,
+  "blobs": 1
+ },
+ "a_dessert": {
+  "file": "a_dessert.png",
+  "w": 232,
+  "h": 221,
+  "blobs": 1
+ }
+}

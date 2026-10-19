@@ -1,0 +1,14 @@
+{
+ "back_idle": {
+  "file": "back_idle.png",
+  "w": 308,
+  "h": 524,
+  "blobs": 1
+ },
+ "back_throw": {
+  "file": "back_throw.png",
+  "w": 509,
+  "h": 524,
+  "blobs": 1
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "onigiri": {
+  "file": "onigiri.png",
+  "w": 212,
+  "h": 204,
+  "blobs": 1
+ },
+ "hot_oil": {
+  "file": "hot_oil.png",
+  "w": 203,
+  "h": 212,
+  "blobs": 1
+ },
+ "chopsticks": {
+  "file": "chopsticks.png",
+  "w": 119,
+  "h": 212,
+  "blobs": 1
+ },
+ "cutting_board": {
+  "file": "cutting_board.png",
+  "w": 176,
+  "h": 212,
+  "blobs": 2
+ },
+ "wasabi_beam": {
+  "file": "wasabi_beam.png",
+  "w": 168,
+  "h": 212,
+  "blobs": 1
+ },
+ "rolling_pin": {
+  "file": "rolling_pin.png",
+  "w": 155,
+  "h": 212,
+  "blobs": 2
+ },
+ "takoyaki_cannon": {
+  "file": "takoyaki_cannon.png",
+  "w": 212,
+  "h": 210,
+  "blobs": 1
+ },
+ "pepper": {
+  "file": "pepper.png",
+  "w": 207,
+  "h": 212,
+  "blobs": 1
+ }
+}

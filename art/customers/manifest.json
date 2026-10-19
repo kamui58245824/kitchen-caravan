@@ -1,0 +1,62 @@
+{
+ "family": {
+  "file": "family.png",
+  "w": 186,
+  "h": 268,
+  "blobs": 1
+ },
+ "kid": {
+  "file": "kid.png",
+  "w": 201,
+  "h": 268,
+  "blobs": 1
+ },
+ "salaryman": {
+  "file": "salaryman.png",
+  "w": 185,
+  "h": 268,
+  "blobs": 1
+ },
+ "grandma": {
+  "file": "grandma.png",
+  "w": 174,
+  "h": 268,
+  "blobs": 1
+ },
+ "backpacker": {
+  "file": "backpacker.png",
+  "w": 215,
+  "h": 268,
+  "blobs": 1
+ },
+ "hiker": {
+  "file": "hiker.png",
+  "w": 230,
+  "h": 268,
+  "blobs": 1
+ },
+ "couple": {
+  "file": "couple.png",
+  "w": 268,
+  "h": 194,
+  "blobs": 1
+ },
+ "extra_hat": {
+  "file": "extra_hat.png",
+  "w": 222,
+  "h": 268,
+  "blobs": 1
+ },
+ "extra_green": {
+  "file": "extra_green.png",
+  "w": 181,
+  "h": 268,
+  "blobs": 1
+ },
+ "blogger": {
+  "file": "blogger.png",
+  "w": 268,
+  "h": 217,
+  "blobs": 1
+ }
+}

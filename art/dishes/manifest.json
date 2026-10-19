@@ -1,0 +1,56 @@
+{
+ "houtou": {
+  "file": "houtou.png",
+  "w": 268,
+  "h": 223,
+  "blobs": 1
+ },
+ "yoshida_udon": {
+  "file": "yoshida_udon.png",
+  "w": 268,
+  "h": 231,
+  "blobs": 1
+ },
+ "smelt_fry": {
+  "file": "smelt_fry.png",
+  "w": 268,
+  "h": 191,
+  "blobs": 1
+ },
+ "fuji_curry": {
+  "file": "fuji_curry.png",
+  "w": 268,
+  "h": 190,
+  "blobs": 1
+ },
+ "soft_cream": {
+  "file": "soft_cream.png",
+  "w": 159,
+  "h": 268,
+  "blobs": 1
+ },
+ "onigiri": {
+  "file": "onigiri.png",
+  "w": 268,
+  "h": 259,
+  "blobs": 1
+ },
+ "takoyaki": {
+  "file": "takoyaki.png",
+  "w": 268,
+  "h": 181,
+  "blobs": 1
+ },
+ "dango": {
+  "file": "dango.png",
+  "w": 268,
+  "h": 179,
+  "blobs": 1
+ },
+ "shingen_mochi": {
+  "file": "shingen_mochi.png",
+  "w": 268,
+  "h": 178,
+  "blobs": 1
+ }
+}
